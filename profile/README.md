@@ -15,5 +15,7 @@ Waddle Inc.（株式会社waddle）は、架空の会社です。
 | リポジトリ                                                  |
 | ----------------------------------------------------------- |
 | [waddle-inc/infra](https://github.com/waddle-inc/infra)     |
+| [waddle-inc/corp](https://github.com/waddle-inc/corp)       |
 | [waddle-inc/auth](https://github.com/waddle-inc/auth)       |
+| [waddle-inc/tools](https://github.com/waddle-inc/tools)     |
 | [waddle-inc/ifukuya](https://github.com/waddle-inc/ifukuya) |
